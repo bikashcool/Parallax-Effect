@@ -1,4 +1,5 @@
 Basic Parallax Effect Project
+
 This repository contains a basic project demonstrating the implementation of a parallax effect using HTML and CSS.
 
 What is Parallax Effect?
